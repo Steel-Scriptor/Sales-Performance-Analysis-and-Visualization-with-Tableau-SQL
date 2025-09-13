@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis-and-Visualization-with-Tableau-SQL
+# Sales Performance Analysis and Visualization with Tableau and SQL
 
 ## Project Overview
 
