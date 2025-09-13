@@ -24,6 +24,9 @@ Sales teams faced significant challenges with manual data aggregation and lacked
 
 The analysis utilized a comprehensive transactional dataset containing records across multiple business dimensions, including geographic markets, customer segments, product categories, temporal patterns, and revenue attribution. Data quality protocols ensured consistency across currency conversions and dimensional attributes.
 
+## Data Analysis - Approach
+<p  align="center"><a href="https://github.com/Steel-Scriptor"><img width="80%" src="https://github.com/Steel-Scriptor/Sales-Performance-Analysis-and-Visualization-with-Tableau-SQL/blob/main/images/flow.jpg" /></a></p>
+
 ## Key Analytics and Findings
 
 **Revenue Performance Analysis**
@@ -73,12 +76,12 @@ ORDER BY revenue DESC
 LIMIT 5;
 ```
 
-## Dashboard Features
+## Tableau Dashbpard Revenue Analysis
+<p  align="center"><a href="https://github.com/Steel-Scriptor"><img width="80%" src="https://github.com/Steel-Scriptor/Sales-Performance-Analysis-and-Visualization-with-Tableau-SQL/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></a></p>
 
-The interactive Tableau dashboard provides comprehensive analytical capabilities including revenue and profitability analysis with dynamic filtering across temporal, geographic, customer, and product dimensions. Advanced drill-down functionality enables market-specific performance analysis and comparative trend visualization.
+## Tableau Dashbpard Profit Analysis
+<p  align="center"><a href="https://github.com/Steel-Scriptor"><img width="80%" src="https://github.com/Steel-Scriptor/Sales-Performance-Analysis-and-Visualization-with-Tableau-SQL/blob/main/images/Tableau%20Dashbpard%20Profit%20Analysis.png" /></a></p>
 
-[Interactive Tableau Dashboard](https://public.tableau.com/)  
-[Professional Tableau Portfolio](https://public.tableau.com/)
 
 ## Technical Resources
 - [MySQL Installation Guide – YouTube](https://www.youtube.com/)
